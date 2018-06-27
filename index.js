@@ -9,9 +9,11 @@ function dec() {
 }
 
 function inc() {
+  return 
 }
 
 function makeInt() {
+  parseInt()
 }
 
 function preserveDecimal() {
