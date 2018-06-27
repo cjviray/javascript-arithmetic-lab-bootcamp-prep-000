@@ -1,7 +1,7 @@
 function makeInt() {
 }
 
-function add5(){
+function add5() {
  add5
 }
 
