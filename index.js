@@ -1,5 +1,5 @@
 function makeInt() {
- //your code here
+ add5
 }
 
 function preserveDecimal() {
