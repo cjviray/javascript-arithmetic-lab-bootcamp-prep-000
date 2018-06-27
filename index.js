@@ -1,6 +1,8 @@
 function makeInt() {
 }
 
+var number = 5;
+
 function add5() {
  add5
 }
